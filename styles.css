@@ -14,29 +14,17 @@ body {
     line-height: 1.6;
     padding-top: 50px;
     overflow-x: hidden;
-    
-
 }
 
 /* Navbar */
 header {
-    /*background: linear-gradient(135deg, #4CAF50, #81C784);
-    padding: 20px 10%;
-    text-align: center;
-    position: sticky;
-    top: 0;
-    z-index: 10;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);*/
-    background-image: url("images/3130284-uhd_3840_2160_30fps.gif");
-    background-size: cover;
-    background-position: center;
+    background: linear-gradient(135deg, #4CAF50, #81C784);
     padding: 20px 10%;
     text-align: center;
     position: sticky;
     top: 0;
     z-index: 10;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-
 }
 
 nav {
@@ -72,17 +60,10 @@ nav ul li a:hover {
 
 /* Hero Section */
 .hero {
-    /*text-align: center;
+    text-align: center;
     padding: 100px 0;
     background: linear-gradient(135deg, #4CAF50, #66BB6A);
     color: white;
-    position: relative;
-    overflow: hidden;*/
-    background-image: url("images/3130284-uhd_3840_2160_30fps.gif");
-    background-size: cover;
-    background-position: center;
-    color: white;
-    padding: 100px 0;
     position: relative;
     overflow: hidden;
 }
@@ -277,5 +258,4 @@ footer {
     0% { opacity: 0; }
     100% { opacity: 1; }
 }
-
 
